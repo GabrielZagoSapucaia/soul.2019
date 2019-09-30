@@ -48,6 +48,12 @@ Heitor Leão Nader
 [email](mailto:heitor.nader@gmail.com)
 )</small>
 
+Gabriel Zago Sapucaia
+<small>(
+[github](https://https://github.com/GabrielZagoSapucaia) |
+[email](mailto:gabrielzsapucaia@hotmail.com)
+)</small>
+
 ### Sections
 ---
 
